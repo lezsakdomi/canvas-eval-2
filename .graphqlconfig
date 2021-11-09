@@ -1,0 +1,15 @@
+{
+  "name": "Untitled GraphQL Schema",
+  "schemaPath": "canvas-schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "ELTE Canvas": {
+        "url": "https://canvas.elte.hu/api/graphql?access_token=nS0X0mRqRLDrtzBa62sJtbBnb5Me6oewyPGuxVyDM0MDTLUQzCLt5Wdz81GoYnzB",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": true
+      }
+    }
+  }
+}
